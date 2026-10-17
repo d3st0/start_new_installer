@@ -8,7 +8,7 @@ ami letölti a privát `kali_installer` repót, és elindítja az installert.
 Sima userként (nem root-ként), egy sorban:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/d3st0/start_new_installer/main/start.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/d3st0/start_new_installer/main/start_new_installer.sh)
 ```
 
 Ennyit kell tenned:
